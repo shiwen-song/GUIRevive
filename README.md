@@ -1,6 +1,39 @@
 # GUIRevive
 GUIRevive is an automated approach for repairing obsolete GUI tests caused by UI evolution in mobile applications.
 
+
+## Paper
+
+**Characterizing and Repairing Obsolete Android GUI Tests under UI Evolution**
+
+Shiwen Song, Yiheng Xiong, Wenbo Guo, Manqi Sun, Jiaolong Kong, and Xiaofei Xie.
+
+*Proceedings of the ACM on Software Engineering (ISSTA 2026)*, pp. 4789–4810, 2026.
+
+🏆 **ACM SIGSOFT Distinguished Paper Award — ISSTA 2026**
+
+📄 **[Paper (ACM Digital Library)](https://dl.acm.org/doi/10.1145/3832300)** | **[PDF](https://dl.acm.org/doi/pdf/10.1145/3832300)**
+
+## Citation
+
+If you use GUIRevive or our dataset in your research, please cite our paper:
+
+```bibtex
+@article{song2026guirevive,
+  title={Characterizing and Repairing Obsolete Android GUI Tests under UI Evolution},
+  author={Song, Shiwen and Xiong, Yiheng and Guo, Wenbo and Sun, Manqi and Kong, Jiaolong and Xie, Xiaofei},
+  journal={Proceedings of the ACM on Software Engineering},
+  year={2026},
+  pages={4789--4810},
+  doi={10.1145/3832300},
+  publisher={ACM}
+}
+```
+
+---
+
+
+
 ## Overview
 
 This repository is organized into two parts: **Data** and **Tool**.
